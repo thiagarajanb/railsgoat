@@ -16,7 +16,7 @@ gem "jquery-rails", ">= 4.4.0"
 gem "minitest"
 gem "powder" # Pow related gem
 gem "pry-rails" # not in dev group in case running via prod/staging @ a training
-gem "puma", ">= 5.6.9"
+gem "puma", ">= 4.3.12"
 gem "rails-perftest"
 gem "rake"
 gem "responders" #For Rails 4.2 # LOCKED DOWN
